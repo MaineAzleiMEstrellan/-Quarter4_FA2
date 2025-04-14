@@ -1,1 +1,2 @@
-# -Quarter4_FA2
+# Quarter4_FA2
+Navigate activity in LG 12.2
