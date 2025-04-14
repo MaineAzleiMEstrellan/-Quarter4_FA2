@@ -14,12 +14,14 @@ body {
     width: 400px;
     padding:25px;
 }
+
 button{
     color:white;
     background-color: darkcyan;
     border-radius: 5px;
     font-size: 20px;
 }
+
 p{
     font-size: 22px;
 }
