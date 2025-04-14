@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("bg.jpg");
+    padding: 30px;
+    text-align: center;
+}
+
+#content{
+    background-color:beige ;
+    border-radius: 7px;
+    border: solid bisque 2px;
+    display: inline-block;
+    box-shadow:  0 4px 12px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    padding:25px;
+}
+button{
+    color:white;
+    background-color: darkcyan;
+    border-radius: 5px;
+    font-size: 20px;
+}
+p{
+    font-size: 22px;
+}
+
+input{
+    width: 100px;
+    height:20px;
+    border: solid darkslategrey 2px;
+    border-radius: 5px;
+}
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid #ccc;
+    padding: 10px 15px;
+    font-size: 16px;
+    background-color: lightcyan;
+    text-align: center;
+}
